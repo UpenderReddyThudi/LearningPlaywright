@@ -1,0 +1,13 @@
+node_modules/
+playwright-report/
+test-results/
+.vscode/
+.env
+npm-debug.log
+package-lock.json
+yarn.lock
+.DS_Store
+coverage/
+videos/
+screenshots/
+trace.zip
