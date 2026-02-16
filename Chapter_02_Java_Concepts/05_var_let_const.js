@@ -37,7 +37,7 @@ console.log("Global Variable: x = ", x);
 function printhellolet(){
         console.log("Hello! I am learning let in Java Script");
         let y = 20;
-        console.log("Functioned Scope : y = ",y);  //20
+        console.log("Function Scoped : y = ",y);  //20
 
         if(true){
             let y = 30; 
