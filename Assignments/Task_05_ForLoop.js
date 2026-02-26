@@ -29,5 +29,5 @@ console.log("Sum of first 10 natural numbers - ", sum);
 
   let number = 5;
   for (m=1; m<=10; m++){
-    console.log(number, "*", m, "=" ,number * m);
+    console.log(number + " * " + m +" = "+ (number * m));
   }

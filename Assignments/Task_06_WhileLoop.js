@@ -42,6 +42,6 @@ console.log("Sum of first 10 Natural Numbers - ", sum);
 let number = 7;
 let l = 1;
 while(l<=10){
-    console.log(number, "*", l, "=", number*l);
+    console.log(number + " * " + l + " = " + (number*l));
     l++;
 }
