@@ -7,7 +7,6 @@ otherwise `GENERAL`.
 */
 
 let rawMessage = " Locator  not  found  after  TIMEOUT ";
-let Category = 'GENERAL';
 
 function normal(sentance){
     let Normalized = sentance.toLowerCase().trim().replace(/\s+/g, ' ');
